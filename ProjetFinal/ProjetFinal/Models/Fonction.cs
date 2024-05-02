@@ -17,10 +17,10 @@ namespace ProjetFinal.Models
         public int? NombreLignesDeCode { get; set; }
         [Column(TypeName = "date")]
         public DateTime? DernierUpdate { get; set; }
-        public int? IdBibliothèque { get; set; }
+        public int? IdBibliotheque { get; set; }
 
-        [ForeignKey("IdBibliothèque")]
+        [ForeignKey("IdBibliotheque")]
         [InverseProperty("Fonctions")]
-        public virtual Bibliothèque? IdBibliothèqueNavigation { get; set; }
+        public virtual Bibliotheque? IdBibliothequeNavigation { get; set; }
     }
 }

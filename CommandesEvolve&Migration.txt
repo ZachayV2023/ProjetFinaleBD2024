@@ -1,3 +1,5 @@
-evolve migrate sqlserver -c "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DevLibraryDB;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" --target-version 1.6
+cd ./ProjetFinal
+
+evolve migrate sqlserver -c "Data Source=.\SQLEXPRESS;Initial Catalog=DevLibraryDB;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" --target-version 1.6
 
 dotnet ef dbcontext scaffold Name=DevLibraryBD Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations --force

@@ -18,10 +18,10 @@ namespace ProjetFinal.Models
         [StringLength(255)]
         public string? NomUtilisateur { get; set; }
         public string? ReplyCritique { get; set; }
-        public int? IdBibliothèque { get; set; }
+        public int? IdBibliotheque { get; set; }
 
-        [ForeignKey("IdBibliothèque")]
+        [ForeignKey("IdBibliotheque")]
         [InverseProperty("Critiques")]
-        public virtual Bibliothèque? IdBibliothèqueNavigation { get; set; }
+        public virtual Bibliotheque? IdBibliothequeNavigation { get; set; }
     }
 }

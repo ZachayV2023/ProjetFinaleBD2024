@@ -9,39 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetFinal
 build_property.RootNamespace = ProjetFinal
-build_property.ProjectDir = C:\Users\Zachary\Desktop\ProjetTP3\ProjetFinal\ProjetFinal\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\2037408\Desktop\ProjetFinaleBD2024\ProjetFinal\ProjetFinal\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Zachary\Desktop\ProjetTP3\ProjetFinal\ProjetFinal
+build_property.MSBuildProjectDirectory = C:\Users\2037408\Desktop\ProjetFinaleBD2024\ProjetFinal\ProjetFinal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/Error.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/Index.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/_ViewImports.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/_ViewStart.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zachary/Desktop/ProjetTP3/ProjetFinal/ProjetFinal/Pages/Shared/_Layout.cshtml]
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Bibliotheques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGhlcXVlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Bibliotheques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGhlcXVlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Bibliotheques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGhlcXVlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Bibliotheques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGhlcXVlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Bibliotheques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGhlcXVlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Critiques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGlxdWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Critiques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGlxdWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Critiques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGlxdWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Critiques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGlxdWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Critiques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGlxdWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Fonctions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9uY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Fonctions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9uY3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Fonctions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9uY3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Fonctions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9uY3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Fonctions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9uY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/ReglageConfigs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbGFnZUNvbmZpZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/ReglageConfigs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbGFnZUNvbmZpZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/ReglageConfigs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbGFnZUNvbmZpZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/ReglageConfigs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbGFnZUNvbmZpZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/ReglageConfigs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbGFnZUNvbmZpZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Utilisateurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Utilisateurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Utilisateurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Utilisateurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Views/Utilisateurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2037408/Desktop/ProjetFinaleBD2024/ProjetFinal/ProjetFinal/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t9x6v49mml
