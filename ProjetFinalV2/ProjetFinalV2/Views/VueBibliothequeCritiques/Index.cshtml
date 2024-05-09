@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ProjetFinalV2.Models.VueBibliothequeCritique>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VueBibliothequeCritiqueId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categorie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCritiques)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoyenneNotation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreMisesAjour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DerniereVersion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoyenneLignesCodeFonctions)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreFonctions)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VueBibliothequeCritiqueId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categorie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCritiques)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoyenneNotation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreMisesAjour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DerniereVersion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoyenneLignesCodeFonctions)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreFonctions)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Nom">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Nom">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Nom">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

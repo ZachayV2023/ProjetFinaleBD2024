@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\desktop\\projettp3\\projetfinal\\projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\desktop\\projettp3\\projetfinal\\projetfinal\\data\\devlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\data\\devlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\desktop\\projettp3\\projetfinal\\projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92225964-609A-43A4-8A1F-880B23900915}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\sql_scripts\\v1_3__chiffrementdudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_3__chiffrementdudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|c:\\users\\zachary\\riderprojects\\projetfinal\\projetfinal\\sql_scripts\\v1_3__chiffrementdudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{BC0D164E-8A19-45C1-A48A-122E79D7B492}|ProjetFinal\\ProjetFinal.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_3__chiffrementdudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DevLibraryDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\Data\\DevLibraryDBContext.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Data\\DevLibraryDBContext.cs",
-              "ToolTip": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\Data\\DevLibraryDBContext.cs",
-              "RelativeToolTip": "ProjetFinal\\Data\\DevLibraryDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Program.cs",
+              "RelativeToolTip": "ProjetFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T20:43:40.948Z",
+              "WhenOpened": "2024-05-08T01:00:28.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetFinal\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\appsettings.json",
               "RelativeToolTip": "ProjetFinal\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T20:34:55.825Z",
+              "WhenOpened": "2024-05-08T00:59:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "V1_3__ChiffrementDuData.sql ",
+              "DocumentMoniker": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__ChiffrementDuData.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_3__ChiffrementDuData.sql",
+              "ToolTip": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__ChiffrementDuData.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_3__ChiffrementDuData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T00:55:41.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Program.cs",
-              "ToolTip": "C:\\Users\\Zachary\\Desktop\\ProjetTP3\\ProjetFinal\\ProjetFinal\\Program.cs",
-              "RelativeToolTip": "ProjetFinal\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T20:28:55.3Z",
+              "Title": "V1_2__CreationVue.sql ",
+              "DocumentMoniker": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "ToolTip": "C:\\Users\\Zachary\\RiderProjects\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T00:55:37.17Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,69 @@
+﻿@model ProjetFinalV2.Models.VueBibliothequeCritique
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>VueBibliothequeCritique</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VueBibliothequeCritiqueId" class="control-label"></label>
+                <input asp-for="VueBibliothequeCritiqueId" class="form-control" />
+                <span asp-validation-for="VueBibliothequeCritiqueId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Nom" />
+            <div class="form-group">
+                <label asp-for="Categorie" class="control-label"></label>
+                <input asp-for="Categorie" class="form-control" />
+                <span asp-validation-for="Categorie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreCritiques" class="control-label"></label>
+                <input asp-for="NombreCritiques" class="form-control" />
+                <span asp-validation-for="NombreCritiques" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoyenneNotation" class="control-label"></label>
+                <input asp-for="MoyenneNotation" class="form-control" />
+                <span asp-validation-for="MoyenneNotation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreMisesAjour" class="control-label"></label>
+                <input asp-for="NombreMisesAjour" class="form-control" />
+                <span asp-validation-for="NombreMisesAjour" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DerniereVersion" class="control-label"></label>
+                <input asp-for="DerniereVersion" class="form-control" />
+                <span asp-validation-for="DerniereVersion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoyenneLignesCodeFonctions" class="control-label"></label>
+                <input asp-for="MoyenneLignesCodeFonctions" class="form-control" />
+                <span asp-validation-for="MoyenneLignesCodeFonctions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreFonctions" class="control-label"></label>
+                <input asp-for="NombreFonctions" class="form-control" />
+                <span asp-validation-for="NombreFonctions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

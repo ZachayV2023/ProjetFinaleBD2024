@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetFinalV2
+build_property.RootNamespace = ProjetFinalV2
+build_property.ProjectDir = C:\Users\Zachary\RiderProjects\ProjetFinalV2\ProjetFinalV2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Zachary\RiderProjects\ProjetFinalV2\ProjetFinalV2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueBibliothequeCritiques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlQmlibGlvdGhlcXVlQ3JpdGlxdWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueBibliothequeCritiques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlQmlibGlvdGhlcXVlQ3JpdGlxdWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueBibliothequeCritiques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlQmlibGlvdGhlcXVlQ3JpdGlxdWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueBibliothequeCritiques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlQmlibGlvdGhlcXVlQ3JpdGlxdWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueBibliothequeCritiques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlQmlibGlvdGhlcXVlQ3JpdGlxdWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsChiffres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzQ2hpZmZyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsChiffres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzQ2hpZmZyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsChiffres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzQ2hpZmZyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsChiffres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzQ2hpZmZyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsChiffres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzQ2hpZmZyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsDechiffres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzRGVjaGlmZnJlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsDechiffres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzRGVjaGlmZnJlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsDechiffres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzRGVjaGlmZnJlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsDechiffres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzRGVjaGlmZnJlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueEmailsDechiffres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlRW1haWxzRGVjaGlmZnJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueUserDownloads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVXNlckRvd25sb2Fkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueUserDownloads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVXNlckRvd25sb2Fkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueUserDownloads/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVXNlckRvd25sb2Fkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueUserDownloads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVXNlckRvd25sb2Fkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/VueUserDownloads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVXNlckRvd25sb2Fkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zachary/RiderProjects/ProjetFinalV2/ProjetFinalV2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fvy0o96ixn

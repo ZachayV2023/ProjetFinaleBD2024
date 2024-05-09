@@ -3,3 +3,30 @@ cd ./ProjetFinal
 evolve migrate sqlserver -c "Data Source=.\SQLEXPRESS;Initial Catalog=DevLibraryDB;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" --target-version 1.6
 
 dotnet ef dbcontext scaffold Name=DevLibraryBD Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations --force
+
+
+        modelBuilder.Entity<VueBibliothequeCritique>(entity =>
+        {
+            entity.ToView("VueBibliothequeCritiques");
+            entity.HasKey(e => e.Nom); //<-- Rajouter la ligne suivante
+        });
+
+        modelBuilder.Entity<VueEmailsChiffre>(entity =>
+        {
+            entity.ToView("VueEmailsChiffres");
+            entity.HasKey(e => e.IdUtilisateur); //<-- Rajouter la ligne suivante
+            entity.Property(e => e.IdUtilisateur).ValueGeneratedOnAdd();
+        });
+
+        modelBuilder.Entity<VueEmailsDechiffre>(entity =>
+        {
+            entity.ToView("VueEmailsDechiffres");
+            entity.HasKey(e => e.IdUtilisateur); //<-- Rajouter la ligne suivante
+            entity.Property(e => e.IdUtilisateur).ValueGeneratedOnAdd();
+        });
+
+        modelBuilder.Entity<VueUserDownload>(entity =>
+        {
+            entity.ToView("VueUserDownloads");
+            entity.HasKey(e => e.IdUtilisateur); //<-- Rajouter la ligne suivante
+        });

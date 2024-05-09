@@ -1,0 +1,40 @@
+﻿@model ProjetFinalV2.Models.FilteredDownloadsViewModel
+
+@{
+    ViewData["Title"] = "Filtered Index";
+}
+
+<h1>Filtered Index</h1>
+
+<form asp-action="Index">
+    <p>
+        Library Name: <input type="text" name="LibraryNameFilter" value="@Model.LibraryNameFilter" />
+        Start Date: <input type="date" name="StartDate" value="@Model.StartDate?.ToString("yyyy-MM-dd")" />
+        End Date: <input type="date" name="EndDate" value="@Model.EndDate?.ToString("yyyy-MM-dd")" />
+        <button type="submit">Filter</button>
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Downloads.First().LibraryName)</th>
+            <th>@Html.DisplayNameFor(model => model.Downloads.First().DownloadDate)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Downloads)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.LibraryName)</td>
+                <td>@Html.DisplayFor(modelItem => item.DownloadDate)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdUtilisateur">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdUtilisateur">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdUtilisateur">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

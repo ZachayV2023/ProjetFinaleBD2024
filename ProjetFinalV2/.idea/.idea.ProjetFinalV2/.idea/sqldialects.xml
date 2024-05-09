@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/ProjetFinalV2/Sql_Scripts/InitialCreate.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/ProjetFinalV2/Sql_Scripts/V1_0__CreationTables.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/ProjetFinalV2/Sql_Scripts/V1_1__InsertionDuData.sql" dialect="GenericSQL" />
+  </component>
+</project>
